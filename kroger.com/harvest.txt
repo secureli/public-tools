@@ -1,0 +1,261 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+Full harvest..
+[-] Searching in Google..
+	Searching 0 results...
+	Searching 100 results...
+	Searching 200 results...
+[-] Searching in PGP Key server..
+200
+OK
+[-] Searching in Bing..
+	Searching 50 results...
+	Searching 100 results...
+	Searching 150 results...
+	Searching 200 results...
+[-] Searching in Exalead..
+	Searching 50 results...
+	Searching 100 results...
+	Searching 150 results...
+	Searching 200 results...
+	Searching 250 results...
+
+
+[+] Emails found:
+------------------
+KCR24@kroger.com
+Richard.Hauke@kroger.com
+Tim.McGurk@kroger.com
+bpowell@kroger.com
+brad.gould@kroger.com
+christopherhjelm@kroger.com
+customers@kroger.com
+domain-admin@kroger.com
+doug.alcorn@kroger.com
+janet.buffer@kroger.com
+ken.mcclure@kroger.com
+kwhitehead@kroger.com
+matthew.feltman@kroger.com
+megan.stoiber@stores.kroger.com
+pixel-1482816882645414-web-@kroger.com
+pixel-1482816885642638-web-@kroger.com
+russell.weaver@kroger.com
+swkrogercommunityrewards@kroger.com
+victoria.brase@kroger.com
+
+[+] Hosts found in search engines:
+------------------------------------
+[-] Resolving hostnames IPs... 
+158.48.16.56:Edi.kroger.com
+158.48.152.25:Ess.kroger.com
+184.73.233.63:creditcard.kroger.com
+23.218.203.245:customer.kroger.com
+158.48.16.56:edi.kroger.com
+158.48.152.25:ess.kroger.com
+158.48.6.3:ftp.kroger.com
+184.73.206.128:giftcards.kroger.com
+158.48.152.22:grape.kroger.com
+158.48.152.17:homeshop.kroger.com
+216.197.69.202:ir.kroger.com
+50.57.26.71:jobs.kroger.com
+158.48.152.7:mail2.dmz.kroger.com
+184.73.233.63:moneyservices.kroger.com
+158.48.152.62:ppe.kroger.com
+158.48.6.8:sage.kroger.com
+158.48.152.53:secureweb.kroger.com
+54.83.19.211:sustainability.kroger.com
+158.48.133.8:thyme.kroger.com
+158.48.16.100:vpn.kroger.com
+158.48.6.31:vpnb-cdc.kroger.com
+23.218.203.245:www.kroger.com
+[+] Virtual hosts:
+==================
+158.48.16.56	edi.kroger.com
+158.48.152.25	ess.kroger.com
+184.73.233.63	www.kpfprepaid.com
+184.73.233.63	ralphs.kpfprepaid.com
+184.73.233.63	www.fredmeyerprepaid.com
+184.73.233.63	creditcard.kroger.com
+184.73.233.63	moneyservices.kroger.com
+184.73.233.63	www.cstoreprepaid.com
+184.73.233.63	www.aprewardscard.com
+184.73.233.63	creditcard.ralphs
+184.73.233.63	creditcard.fredmeyer.com
+184.73.233.63	moneyservices.kingsoopers.com
+184.73.233.63	creditcard.gerbes.com
+184.73.233.63	moneyservices.smithsfoodanddrug.com
+184.73.233.63	moneyservices.dillons.com
+184.73.233.63	moneyservices.frysfood.com
+184.73.233.63	moneyservices.citymarket.com
+184.73.206.128	giftcards
+184.73.206.128	www.freshmeatselector.com
+184.73.206.128	www.freshseafoodselector.com
+184.73.206.128	giftcards.kingsoopers.com
+184.73.206.128	giftcards.food4less.com
+184.73.206.128	giftcards.kroger.com
+184.73.206.128	gift
+184.73.206.128	giftcards.dillons.com
+184.73.206.128	giftcards.ralphs.com
+184.73.206.128	giftcards.bakersplus.com
+184.73.206.128	giftcards.qfc.com
+184.73.206.128	giftcards.owensmarket.com
+184.73.206.128	giftcards.pay-less.com
+184.73.206.128	giftcards.jaycfoods.com
+158.48.152.22	grape.kroger.com
+158.48.152.17	homeshop.kroger.com
+216.197.69.202	ir.kroger.com
+216.197.69.202	investors.primerica.com
+216.197.69.202	ir.starwoodpropertytrust.com
+216.197.69.202	investor.spglobal.com
+216.197.69.202	investors.tangeroutlet.com
+216.197.69.202	investor.wesbanco.com
+216.197.69.202	ir.thirdfederal.com
+216.197.69.202	investors.camdenliving.com
+216.197.69.202	investors.nationstarholdings.com
+216.197.69.202	investors.orrstown.com
+216.197.69.202	ir.eldoradoresorts.com
+216.197.69.202	investors.americanwoodmark.com
+216.197.69.202	www.nexpointliving.com
+216.197.69.202	www.smartfinancialinc
+216.197.69.202	investor.t-mobile.com
+216.197.69.202	ir.vereit.com
+216.197.69.202	ir.waddell.com
+216.197.69.202	investors.bwxt.com
+216.197.69.202	ir.udr.com
+216.197.69.202	ir.ufginsurance.com
+216.197.69.202	ir.cnfrh.com
+216.197.69.202	investors.westernalliancebancorporation.com
+216.197.69.202	ir.patnat.com
+216.197.69.202	investors.texascapitalbank.com
+216.197.69.202	ir.pennymacfinancial.com
+216.197.69.202	www.pginvestor.com
+216.197.69.202	ir.bankozarks.com
+216.197.69.202	investors.timken.com
+216.197.69.202	ir-tep.tallgrassenergylp.com
+216.197.69.202	investors.gkservices.com
+216.197.69.202	investor.honeywell.com
+216.197.69.202	investors.cubesmart.com
+216.197.69.202	investors.vectrus.com
+216.197.69.202	ir.ameriprise.com
+216.197.69.202	www.fibk.com
+216.197.69.202	investors.ropertech.com
+216.197.69.202	ir.gptreit.com
+216.197.69.202	ir.amerisbank.com
+216.197.69.202	investors.xcelenergy.com
+216.197.69.202	ir.americanexpress
+216.197.69.202	www.ir-hopebancorp.com
+216.197.69.202	www.conemidstream.com
+216.197.69.202	investors.americanfarmlandcompany.com
+216.197.69.202	investors.expeditions.com
+216.197.69.202	www.swiftenergy.com
+216.197.69.202	www.mysifi.com
+216.197.69.202	ir.univest.net
+216.197.69.202	investor.banklandmark.com
+216.197.69.202	ir.simmonsbank.com
+216.197.69.202	investors.dstsystems.com
+216.197.69.202	ir.tcfbank.com
+216.197.69.202	www.prospectstreet.com
+216.197.69.202	ir.armstrongflooring.com
+216.197.69.202	investors.cardconnect.com
+216.197.69.202	investor.amctheatres.com
+216.197.69.202	investors.amplifysnackbrands.com
+216.197.69.202	investors.willbros.com
+216.197.69.202	ir.seritage.com
+216.197.69.202	ir.tierreit.com
+216.197.69.202	ir.atwd.com
+216.197.69.202	ir.leggmason.com
+216.197.69.202	www.yulongecomaterials
+216.197.69.202	ir.checkpointtx.com
+216.197.69.202	investors.hudsonpacificproperties.com
+216.197.69.202	ir.applehospitalityreit
+216.197.69.202	investors.colonystarwood.com
+216.197.69.202	www.hei.com
+216.197.69.202	corporate.pky.com
+216.197.69.202	ir.chartindustries.com
+216.197.69.202	ir.car-mart.com
+216.197.69.202	investor.pandora.com
+216.197.69.202	investors.firstenergycorp.com
+216.197.69.202	ir.wellcare.com
+216.197.69.202	ir.hometrustbanking.com
+216.197.69.202	ir.lydall.com
+216.197.69.202	investors.equitableonline.com
+216.197.69.202	ir.tractorsupply.com
+216.197.69.202	investor.inogen.com
+216.197.69.202	investors.fourcornerspropertytrust.com
+216.197.69.202	ir.columbia.reit
+216.197.69.202	ir.eaglebankcorp.com
+216.197.69.202	investor.onemainfinancial.com
+216.197.69.202	investors.geogroup.com
+216.197.69.202	investors.essexapartmenthomes
+216.197.69.202	investors.kimcorealty
+216.197.69.202	investor.associatedbank.com
+216.197.69.202	ir.kiterealty.com
+216.197.69.202	investors.rlicorp.com
+216.197.69.202	investors.meritagehomes.com
+216.197.69.202	investor.travelers.com
+216.197.69.202	investors.highlandsreit.com
+216.197.69.202	investors.zagg.com
+216.197.69.202	investor.plantronics.com
+216.197.69.202	investors.kimcorealty.com
+216.197.69.202	investors.nnnreit.com
+216.197.69.202	investors.advisoryboardcompany.com
+216.197.69.202	investors.statestreet.com
+216.197.69.202	www.firstenergycorp.com
+216.197.69.202	ir.firstbanktrust.com
+216.197.69.202	ir.evolenthealth
+216.197.69.202	investors.motorolasolutions.com
+216.197.69.202	investors.avalonbay.com
+216.197.69.202	www.redwoodtrust
+216.197.69.202	ir.verifone.com
+216.197.69.202	ir.hecla-mining.com
+216.197.69.202	investors.nano-di.com
+216.197.69.202	investors.walkerdunlop.com
+216.197.69.202	www.honeywell.com
+216.197.69.202	ir.capfed.com
+216.197.69.202	ir.janus.com
+216.197.69.202	ir.infinityauto.com
+216.197.69.202	www.cubancorp
+216.197.69.202	investor.modeln.com
+216.197.69.202	investor.key.com
+216.197.69.202	investors.psychemedics.com
+216.197.69.202	investors.moelis.com
+216.197.69.202	www.pacwestbancorp.com
+216.197.69.202	investors.summit-materials.com
+216.197.69.202	investor.mysunshinebank
+216.197.69.202	ir.blackrock.com
+216.197.69.202	investors.bankwithsouthern.com
+216.197.69.202	investor
+216.197.69.202	ir.peakresorts.com
+216.197.69.202	ir.essabank.com
+216.197.69.202	investor.retailmenot.com
+216.197.69.202	www.communitywest.com
+216.197.69.202	investor.shpreit.com
+216.197.69.202	ir.unitedfiregroup.com
+216.197.69.202	investor.foresight.com
+216.197.69.202	www.chesapeakefinancialshares.com
+216.197.69.202	investors.thebancorp.com
+216.197.69.202	press.pandora.com
+216.197.69.202	ir.interdigital.com
+216.197.69.202	ir.jefferies.com
+216.197.69.202	investors.riverviewbank.com
+216.197.69.202	ir.first-potomac.com
+216.197.69.202	www.smartfinancialinc.com
+216.197.69.202	www.firstconnecticutbancorp.com
+216.197.69.202	ir.cwco.com
+50.57.26.71	jobs.kroger.com
+158.48.152.62	ppe.kroger.com
+158.48.152.53	secureweb.kroger.com
+54.83.19.211	sustainability.kroger.com

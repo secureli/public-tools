@@ -1,0 +1,7 @@
+keys add bing_api test
+keys add builtwith_api 9a74cc2b-9c1c-4cf2-b32e-a349158ef7d9
+keys add google_api AIzaSyBR2fflgt0O0fYpKnjNqFubTtCiqmdPrJs
+keys add google_cset AIzaSyBR2fflgt0O0fYpKnjNqFubTtCiqmdPrJs
+keys add linkedin_api 78mjjd88ztvcfl
+keys add linkedin_secret ounO7pER7Q0ZXXCj
+keys add shodan_api ULAqZuKzub6waFpbmlpvrLdek5QDsXYB
